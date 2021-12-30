@@ -1,3 +1,7 @@
+K2 ps1218a 支持kvr
+
+
+
 # 状态：[WELN2020 恩山论坛](https://www.right.com.cn/forum/thread-6896728-1-1.html "PadavanKVR_K2P 精简版 支持KVR")
 [![](https://img.shields.io/github/downloads/weln2020/manual-action-padavan/total?label=下载量)](https://github.com/weln2020)
 [![](https://img.shields.io/github/stars/weln2020/manual-action-padavan?label=加星量)](https://github.com/weln2020?tab=stars)
